@@ -1,13 +1,13 @@
 # Site settings
 course_name: IoT Operating Systems
-course_description: "This course will explore the fundations of modern Real-time operating systems from the programmer's perspective. Topics include structure of real-­time embedded systems, interrupts, concurrent task synchronization and communication, inter-process interface and multitasking, sharing resources, schedulability and reliability. The course will provide a particular emphasis on predictable scheduling algorithms and provide the basic methodologies for designing predictable computing systems useful in supporting time critical IoT systems. The course also discuss popular open-source FreRTOS to identify the benefits and weaknesses in deciding whether or not to adopt more traditional, less powerful, techniques for a project."
+course_description: "This course will explore the foundations of modern Real-time operating systems from the programmer's perspective. Topics include structure of real-­time embedded systems, interrupts, concurrent task synchronization and communication, inter-process interface and multitasking, sharing resources, schedulability and reliability. The course also discuss popular open-source FreeRTOS to identify the benefits and weaknesses in deciding whether or not to adopt more traditional, less powerful, techniques for a project."
 course_semester: 
 
 baseurl: "/ecs6264" # the subpath of your site, e.g. /blog/
 url: "https://qiriro.com" # the base hostname & protocol for your site
 # schoolname: "University of Rwanda"
 # schoolurl: ""
-twitter_username: nkuzito 
+twitter_username: 
 
 address: |
     Kizito NKURIKIYEYEZU, Ph.D.

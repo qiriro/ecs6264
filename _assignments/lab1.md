@@ -1,12 +1,25 @@
 ---
 type: assignment
-date: Mon Sep 27 16:56:01 CAT 2021
-title: 'Lab #1 - Introduction to the lab tools'
+date: Sun Oct 30 17:36:54 CAT 2022
+title: 'Lab #1'
 pdf: 
-attachment: /static_files/labs/lab1.pdf
+attachment: /static_files/labs/lab1/lab1.pdf
 due_event: 
     type: due
-    date: 2021-10-01T23:59:59+4:30
+    date: 2022-12-06T23:59:59+4:30
     description: 'Lab #1 due'
 ---
-This lab is designed to introduce you to the tools and simulator that will be used for the remaining of the course. The lab is very simple and should take less than 30 minutes to complete. If you're struggling with completing the lab, please see me in my office because you do not have the necessary background to take the course and I will help you catch up with the course prerequisites. 
+The purpose of this lab is to introduce students to using micro-controller for basic real-time
+(RT) system and the basic tools used by embedded system engineers: oscilloscope and function
+generator. The oscilloscope used to troubleshoot electronic systems. Additionally, real-embedded
+system signals are too complex (e.g., sensor data) and difficult to to analyze. The function
+generator is used to generate electronic signals with specific known characteristics, thereby
+enabling an engineer to test and examine a circuit. Finally, you will use a micro-controller to
+implement specification of a simple interrupt controlled system. Lab objectives include:
+- Introduction to lab equipment and microcontroller
+- Understand how we might use them to control digital outputs.
+- Understand the limitations switch polling
+- Using timers and interrupts to mitigate the limitations of switch polling
+- Understand the potential problem (e.g., race conditions, shared mutable variables, etc)
+and potential solutions to these problem.
+
