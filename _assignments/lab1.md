@@ -6,7 +6,7 @@ pdf: /static_files/labs/lab1/lab1.pdf
 attachment: /static_files/labs/lab1/lab1.pdf
 due_event: 
     type: due
-    date: 2022-12-06T23:59:59+4:30
+    date: 2022-10-23T23:59:59+4:30
     description: 'Lab #1 due'
 ---
 The purpose of this lab is to introduce students to using micro-controller for basic real-time
