@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: Sun Oct 30 17:36:54 CAT 2022
-title: 'Lab #1'
+title: 'Lab #1- Interrupts'
 pdf: /static_files/labs/lab1/lab1.pdf
 attachment: /static_files/labs/lab1/lab1.pdf
 due_event: 
